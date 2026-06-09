@@ -1,4 +1,4 @@
-# Regras do Hospital
+# 🚒 Bombeiro
 
 ## Atendimento
 

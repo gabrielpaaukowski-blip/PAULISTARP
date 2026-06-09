@@ -1,4 +1,4 @@
-# Manual de Organizações
+# 📎 Organizações
 
 ## Criação
 

@@ -1,4 +1,4 @@
-# Manual de Facçôes
+# ☠️ Facções
 
 ## O que são
 
@@ -8,7 +8,7 @@ Todas as facções devem atuar dentro dos princípios do Roleplay, promovendo in
 
 ## Requisitos
 
-- Ter uma proposta coerente.
-- Possuir liderança definida.
-- Seguir as regras gerais do servidor.
-- Manter organização interna.
+* Ter uma proposta coerente.
+* Possuir liderança definida.
+* Seguir as regras gerais do servidor.
+* Manter organização interna.

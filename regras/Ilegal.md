@@ -1,4 +1,4 @@
-# Regulamento de Facções
+# ☠️ Ilegal
 
 ## Objetivo das Facções
 

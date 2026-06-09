@@ -1,4 +1,4 @@
-# Regras de Doações
+# 💸 Doações
 
 ## Importante
 
