@@ -21,7 +21,7 @@ Observações:
 * Refém: Não Permitido. Observações:
 * Fugas não são permitidas.
 
-<img src="http://localhost:5173/Antena/antena.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/antena.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Açougue <a href="#id-3-acougue" id="id-3-acougue"></a>
 
