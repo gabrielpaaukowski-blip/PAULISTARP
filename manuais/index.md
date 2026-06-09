@@ -4,7 +4,7 @@ Aqui ficam os guias rápidos para jogadores, organizações e equipes internas.
 
 ## Categorias
 
-* [Facções](Fac%C3%A7%C3%B5es/)
+* [Facções](https://paulistarp.gitbook.io/untitled/manuais/faccoes)
 * [Organizações](https://paulistarp.gitbook.io/untitled/manuais/organizacoes)
-* [Comandos Úteis](comandos/)
+* [Comandos Úteis](https://paulistarp.gitbook.io/untitled/manuais/comandos)
 
