@@ -35,8 +35,9 @@ Observações:
 Observações:
 
 * Fugas não são permitidas.
+*
 
-<img src="http://localhost:5173/A%C3%A7ougue/a%C3%A7ougue.png" alt="" width="800">
+    <figure><img src="../.gitbook/assets/açougue.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Banco Central <a href="#id-4-banco-central" id="id-4-banco-central"></a>
 
@@ -54,7 +55,7 @@ Observações:
 * Não é permitido utilizar a mesa pra subir na estante;
 * Não é permitido utilizar a mesa como cobertura para troca de tiros.
 
-<img src="http://localhost:5173/Banco/banco.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/banco.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Barbearia <a href="#id-4-barbearia" id="id-4-barbearia"></a>
 
@@ -81,7 +82,7 @@ Observações:
 
 * Bandidos não podem rushar pra fora.
 
-<img src="http://localhost:5173/Bobcat/bobcat.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/bobcat.png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Cemitério de Aviões <a href="#id-6-cemiterio-de-avioes" id="id-6-cemiterio-de-avioes"></a>
 
@@ -96,7 +97,7 @@ Observações:
 * Fugas são proibidas.
 * Os assaltantes começam de dentro pra fora, e os policiais se encontram do outro lado da rua, indo de fora pra dentro.
 
-<img src="http://localhost:5173/Avi%C3%B5es/avi%C3%B5es.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/aviões.png" alt=""><figcaption></figcaption></figure>
 
 ### 7. Cypress <a href="#id-7-cypress" id="id-7-cypress"></a>
 
@@ -113,7 +114,7 @@ Observações:
 * Proibido marcar drop da polícia
 * Fuga não permitida.
 
-<img src="http://localhost:5173/Cypress/cypress.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/cypress.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Estábulo <a href="#id-8-estabulo" id="id-8-estabulo"></a>
 
@@ -129,7 +130,7 @@ Observações:
 * Fugas não estão permitidas.
 * Não é permitido marcar drop da polícia.
 
-<img src="http://localhost:5173/Estabulo/estabulo.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/estabulo.png" alt=""><figcaption></figcaption></figure>
 
 ### 9. Festa Junina <a href="#id-9-festa-junina" id="id-9-festa-junina"></a>
 
@@ -143,7 +144,7 @@ Observações:
 
 * Fugas são proibidas.
 
-<img src="http://localhost:5173/Junina/junina.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/junina.png" alt=""><figcaption></figcaption></figure>
 
 ### 10. Banco Flecca Paleto <a href="#id-10-banco-flecca-paleto" id="id-10-banco-flecca-paleto"></a>
 
@@ -164,22 +165,22 @@ Observações:
 * Fleeca Praia: Totalmente Teti Chão + Heli sem atirador. (Podendo estar todos fora);
 * Fleeca Rota 68: Totalmente Teti Chão + Heli sem atirador. (Podendo estar todos fora) Estacionamentos não são considerados como INTERIOR / PRÉDIO.
 
-<img src="http://localhost:5173/Flecca%20Paleto/flecca%20paleto.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/flecca paleto.png" alt=""><figcaption></figcaption></figure>
 
 ### 10.1 Perímetro Life Invader <a href="#id-10-1-perimetro-life-invader" id="id-10-1-perimetro-life-invader"></a>
 
-<img src="http://localhost:5173/LifeInvader/lifeinvader.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lifeinvader.png" alt=""><figcaption></figcaption></figure>
 
 ### 10.2 Perímetro Fleeca do Shopping <a href="#id-10-2-perimetro-fleeca-do-shopping" id="id-10-2-perimetro-fleeca-do-shopping"></a>
 
-<img src="http://localhost:5173/Shopping/shopping.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/shopping.png" alt=""><figcaption></figcaption></figure>
 
 ### 10.3 Fleeca Praia <a href="#id-10-3-fleeca-praia" id="id-10-3-fleeca-praia"></a>
 
-<img src="http://localhost:5173/Praia/praia.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/praia.png" alt=""><figcaption></figcaption></figure>
 
 ### 10.4 Fleeca Rota 68 <a href="#id-10-4-fleeca-rota-68" id="id-10-4-fleeca-rota-68"></a>
 
-<img src="http://localhost:5173/Rota68/rota68.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/rota68.png" alt=""><figcaption></figcaption></figure>
 
 <br>
