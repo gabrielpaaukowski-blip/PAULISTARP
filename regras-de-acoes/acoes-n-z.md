@@ -94,6 +94,6 @@ Observações:
 * Fugas proibidas.
 * Não é permitido marcar drop da polícia.
 
-<img src="http://localhost:5173/Skate/skate.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/skate.png" alt=""><figcaption></figcaption></figure>
 
 <br>
