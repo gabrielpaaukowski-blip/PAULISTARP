@@ -15,7 +15,7 @@ Observações:
 * Não é permitido ficar de fora.
 * Após o inicío da ação, é permitido rushar para fora.
 
-<img src="http://localhost:5173/Galinheiro/galinheiro.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/galinheiro.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Golf <a href="#id-2-golf" id="id-2-golf"></a>
 
@@ -30,7 +30,7 @@ Observações:
 * Fugas são proibidas.
 * Obrigatório TetiChão.
 
-<img src="http://localhost:5173/Golf/golf.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/golf.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Hollywood <a href="#id-3-hollywood" id="id-3-hollywood"></a>
 
@@ -47,7 +47,7 @@ Observações:
 * Obrigatório TetiChão.
 * Helicóptero: Proibido para ambos os lados.
 
-<img src="http://localhost:5173/Hollywood/hollywood.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/hollywood.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Hipermercado <a href="#id-4-hipermercado" id="id-4-hipermercado"></a>
 
@@ -57,7 +57,7 @@ Observações:
 * Negociação: Não há.
 * Refém: Não permitido.
 
-<img src="http://localhost:5173/Hipermercado/hipermercado.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/hipermercado.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Iate <a href="#id-5-iate" id="id-5-iate"></a>
 
@@ -74,7 +74,7 @@ Observações:
 * Proibido utilizar helicóptero.
 * Proibido pular na água.
 
-<img src="http://localhost:5173/Iate/iate.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/iate.png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Joalheria <a href="#id-6-joalheria" id="id-6-joalheria"></a>
 
@@ -93,7 +93,7 @@ Observações:
 * Será utilizado um veículo blindado da polícia durante a ação, e para retirar o blindado serão necessários 2 reféns.
 * Para retirar 1 (uma) smoke é necessário 2 (dois) reféns, a partir da segunda, cada smoke é equivalente a um refém.
 
-<img src="http://localhost:5173/Joalheria/joalheria.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/joalheria.png" alt=""><figcaption></figcaption></figure>
 
 ### 7. Jockey <a href="#id-7-jockey" id="id-7-jockey"></a>
 
