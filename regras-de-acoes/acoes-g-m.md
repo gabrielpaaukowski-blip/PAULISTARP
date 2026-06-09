@@ -107,7 +107,7 @@ Observações:
 
 * Obrigatoriamente TetiChão
 
-<img src="http://localhost:5173/Jockey/jockey.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/jockey.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Lanchonete <a href="#id-8-lanchonete" id="id-8-lanchonete"></a>
 
@@ -121,7 +121,7 @@ Observações:
 
 * Obrigatoriamente TetiChão
 
-<img src="http://localhost:5173/Lanchonete/lanchonete.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lanchonete.png" alt=""><figcaption></figcaption></figure>
 
 ### 9. Lojinhas de Conveniência <a href="#id-9-lojinhas-de-conveniencia" id="id-9-lojinhas-de-conveniencia"></a>
 
@@ -136,55 +136,55 @@ Observações:
 * Obrigatoriamente TetiChão
 * Proibido usar interiores que não seja o da ação.,
 
-<img src="http://localhost:5173/Lojinhas/lojinhas.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.2 Lojinhas <a href="#id-9-2-lojinhas" id="id-9-2-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas2/lojinhas2.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas2.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.3 Lojinhas <a href="#id-9-3-lojinhas" id="id-9-3-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas3/lojinhas3.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas3.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.4 Lojinhas <a href="#id-9-4-lojinhas" id="id-9-4-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas4/lojinhas4.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas4.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.5 Lojinhas <a href="#id-9-5-lojinhas" id="id-9-5-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas5/lojinhas5.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas5.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.6 Lojinhas <a href="#id-9-6-lojinhas" id="id-9-6-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas6/lojinhas6.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas6.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.7 Lojinhas <a href="#id-9-7-lojinhas" id="id-9-7-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas7/lojinhas7.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas7.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.8 Lojinhas <a href="#id-9-8-lojinhas" id="id-9-8-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas8/lojinhas8.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas8.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.9 Lojinhas <a href="#id-9-9-lojinhas" id="id-9-9-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas9/lojinhas9.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas9.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.10 Lojinhas <a href="#id-9-10-lojinhas" id="id-9-10-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas10/lojinhas10.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas10.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.11 Lojinhas <a href="#id-9-11-lojinhas" id="id-9-11-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas11/lojinhas11.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas11.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.12 Lojinhas <a href="#id-9-12-lojinhas" id="id-9-12-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas12/lojinhas12.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas12.png" alt=""><figcaption></figcaption></figure>
 
 ### 9.13 Lojinhas <a href="#id-9-13-lojinhas" id="id-9-13-lojinhas"></a>
 
-<img src="http://localhost:5173/Lojinhas13/lojinhas13.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/lojinhas13.png" alt=""><figcaption></figcaption></figure>
 
 ### 10. Mc Donald's <a href="#id-10-mc-donald-s" id="id-10-mc-donald-s"></a>
 
@@ -200,7 +200,7 @@ Observações:
 * Fugas são proibidas.
 * Não é permitido marcar drop da polícia.
 
-<img src="http://localhost:5173/Mc/mc.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/mc.png" alt=""><figcaption></figcaption></figure>
 
 ### 11. Mini Porto <a href="#id-11-mini-porto" id="id-11-mini-porto"></a>
 
@@ -216,6 +216,6 @@ Observações:
 * Fugas são proibidas.
 * Não é permitido marcar drop da polícia.
 
-<img src="http://localhost:5173/Mini/mini.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/mini.png" alt=""><figcaption></figcaption></figure>
 
 <br>

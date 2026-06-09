@@ -14,7 +14,7 @@ Observações:
 * Fugas são proibidas.
 * Não é permitido marcar drop da polícia.
 
-<img src="http://localhost:5173/Motel/motel.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/motel.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Mosley <a href="#id-2-mosley" id="id-2-mosley"></a>
 
@@ -30,7 +30,7 @@ Observações:
 * Fugas são proibidas.
 * Não é permitido marcar drop da polícia.
 
-<img src="http://localhost:5173/Mosley/mosley.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/mosley.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Navio <a href="#id-3-navio" id="id-3-navio"></a>
 
@@ -44,7 +44,7 @@ Observações:
 
 * Obrigatoriamente TetiChão
 
-<img src="http://localhost:5173/Navio/navio.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/navio.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Nióbio <a href="#id-4-niobio" id="id-4-niobio"></a>
 
@@ -62,7 +62,7 @@ Observações:
 * A entrada aquática só pode ser utilizada para acesso ou retirada pelo túnel.
 * É estritamente proibido que todos os ladrões se posicionem no último pixel do niobio afim de abusar da posição para matar utilizando apenas do mecanismo todos os policias, assim, quebrando a ideia do RP de roubo.
 
-<img src="http://localhost:5173/Niobio/niobio.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/niobio.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Planet <a href="#id-5-planet" id="id-5-planet"></a>
 
@@ -78,7 +78,7 @@ Observações:
 * Fugas proibidas.
 * Não é permitido marcar drop da polícia.
 
-<img src="http://localhost:5173/Planet/planet.png" alt="" width="800">
+<figure><img src="../.gitbook/assets/planet.png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Skate <a href="#id-6-skate" id="id-6-skate"></a>
 
