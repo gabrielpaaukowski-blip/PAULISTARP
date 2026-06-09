@@ -18,3 +18,6 @@ Monte uma história simples, coerente e compatível com a lore do servidor.
 Entre na cidade, conheça pessoas e desenvolva sua história dentro do RP.
 
 <figure><img src=".gitbook/assets/ChatGPT Image 4 de jun. de 2026, 00_39_51.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/logo.png" alt=""><figcaption></figcaption></figure>
+

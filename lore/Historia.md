@@ -1,4 +1,4 @@
-# 📰 História
+# 📖 História
 
 O PCC chegou à Paulista RP há muitos anos, quando um pequeno grupo de criminosos decidiu se unir para dominar os negócios ilegais da cidade. Com organização, estratégia e influência, o grupo cresceu rapidamente, conquistando territórios e formando alianças que fortaleceram seu nome nas ruas.
 

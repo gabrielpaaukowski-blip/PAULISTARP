@@ -1,4 +1,4 @@
-# 🩺 Hospital
+# 🏥 Hospital
 
 ## Prioridade de Atendimento
 

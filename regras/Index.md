@@ -1,4 +1,4 @@
-# 📖 Central de Regras
+# 📓 Central de Regras
 
 1° A discriminação é expressamente proibida, conforme o Art. 3°, IV da Constituição Federal. Entre os objetivos fundamentais da República Federativa do Brasil está promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
 

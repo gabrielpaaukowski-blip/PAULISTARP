@@ -1,4 +1,4 @@
-# ⚖️ Ações
+# 🏦 Ações
 
 ## 1. Objetivo das Facções
 

@@ -5,7 +5,7 @@
 
 ## Lore
 
-* [📰 História](lore/Historia.md)
+* [📖 História](lore/Historia.md)
 
 ## Manuais
 
@@ -16,12 +16,12 @@
 
 ## Regras
 
-* [📖 Central de Regras](regras/Index.md)
+* [📓 Central de Regras](regras/Index.md)
 * [📜 Roleplay](regras/Roleplay.md)
 * [👮 Polícia](regras/Policia.md)
 * [☠️ Ilegal](regras/Ilegal.md)
-* [⚖️ Ações](regras/Ações.md)
-* [🩺 Hospital](regras/Hospital.md)
+* [🏦 Ações](regras/Ações.md)
+* [🏥 Hospital](regras/Hospital.md)
 * [🚒 Bombeiro](regras/Bombeiro.md)
 * [💸 Doações](regras/Doacoes.md)
 
@@ -32,14 +32,14 @@
 * [🔫 Ações A-F](regras-de-acoes/acoes-a-f.md)
 * [🔫 Ações G-M](regras-de-acoes/acoes-g-m.md)
 * [🔫 Ações N-Z](regras-de-acoes/acoes-n-z.md)
-* [🔥 Queima de Arquivo](regras-de-acoes/queima-de-arquivo.md)
+* [📃 Queima de Arquivo](regras-de-acoes/queima-de-arquivo.md)
 * [🧥 Assalto](Legais/Assalto.md)
 * [🔪 Cobrança](Legais/Cobrança.md)
 * [🧛‍♂️ Sequestro](Legais/Sequestro.md)
 * [👹 Dominas](Legais/Dominas.md)
 * [⚔️ Battle Royale](regras-de-acoes/battle-royale.md)
-* [💾 Inquérito Cruzado](regras-de-acoes/inquerito-cruzado.md)
-* [🏧 Caixa Eletrônico e Corrida Ilegal](regras-de-acoes/caixa-eletronico-e-corrida-ilegal.md)
+* [☠️ Inquérito Cruzado](regras-de-acoes/inquerito-cruzado.md)
+* [🏁 Caixa Eletrônico e Corrida Ilegal](regras-de-acoes/caixa-eletronico-e-corrida-ilegal.md)
 
 ## Kids & Peds
 
