@@ -24,7 +24,8 @@ features:
     link: /manuais/
 ---
 
-# Início
+# 🌆 PAULISTA RP
 
 Estamos felizes em ter você conosco! Aqui você encontrará uma experiência de Roleplay séria, divertida e cheia de oportunidades para criar sua própria história.
 
+<figure><img src=".gitbook/assets/ChatGPT Image 4 de jun. de 2026, 00_39_51.png" alt=""><figcaption></figcaption></figure>

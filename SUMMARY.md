@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Início](README.md)
+* [🌆 PAULISTA RP](README.md)
 * [▶️ Como Jogar](como-jogar.md)
 
 ## Lore
