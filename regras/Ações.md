@@ -1,50 +1,10 @@
 # 🏦 Ações
 
-## 1. Objetivo das Facções
-
-As facções existem para promover histórias, disputas e interações dentro do Roleplay, contribuindo para a construção da narrativa da cidade.
-
-## 2. Hierarquia e Liderança
-
-Toda abordagem deve possuir uma justificativa clara e coerente dentro do Roleplay, baseada em ações, comportamentos ou situações presenciadas durante a narrativa. Abordagens sem fundamento ou realizadas apenas para prejudicar a experiência de outros jogadores não serão permitidas.
-
-## 3. Conduta Entre Organizações
-
-Conflitos entre facções devem ocorrer de forma organizada e respeitosa, priorizando sempre a qualidade do Roleplay e evitando atitudes antijogo.
-
-## 4. Guerras e Disputas
-
-Toda guerra, invasão ou disputa territorial deve possuir contexto e desenvolvimento dentro do RP, sendo proibidos conflitos sem motivação ou finalidade.
-
-## 5. Domínio Territorial
-
-As facções devem respeitar os territórios definidos pela administração, sendo obrigatória uma justificativa plausível para qualquer tentativa de expansão ou tomada de área.
-
-## 6. Responsabilidade dos Membros
-
-Cada integrante é responsável por suas ações. Atitudes que prejudiquem a imagem da organização ou violem as regras da cidade poderão resultar em punições individuais ou coletivas.
-
-## 7. Organização de Ações
-
-As ações realizadas pela facção devem ocorrer de forma coordenada, mantendo a coerência, a imersão e a qualidade do Roleplay.
-
-## 8. Gestão da Facção
-
-Líderes e representantes devem manter a organização ativa, organizada e alinhada com as diretrizes estabelecidas pela administração.
-
-## 9. Fiscalização Administrativa
-
-A administração poderá acompanhar, revisar ou intervir em qualquer atividade envolvendo facções para garantir o equilíbrio e o bom funcionamento da cidade.
-
-## 10. Equilíbrio do Servidor
-
-Nenhuma facção possui privilégios sobre outra. Todas as organizações estão sujeitas às mesmas regras e diretrizes estabelecidas pela administração.
-
-## 11. Fuga para Territórios de Facção
+## 1. Fuga para Territórios de Facção
 
 É proibido utilizar territórios de facções ou favelas com a única intenção de iniciar, forçar ou facilitar trocas de tiros contra forças de segurança. Em situações de perseguição, será permitida a fuga para esses locais a pé ou em veículo, desde que o objetivo seja escapar da abordagem e não criar vantagem indevida ou provocar confrontos de forma antirp.
 
-## 12. Uso de Território em Perseguições
+## 2. Uso de Território em Perseguições
 
 Durante perseguições, resgates, ações de caixinha, vendas de drogas ou qualquer outra atividade ilegal, é permitido que os envolvidos utilizem territórios de facções ou favelas como rota de fuga, seja a pé ou em veículos.
 
@@ -52,7 +12,7 @@ Entretanto, é estritamente proibido adentrar esses locais com o objetivo de pro
 
 A utilização do território deverá ocorrer de forma coerente com a narrativa da ação, caracterizando uma tentativa legítima de evasão e preservando a qualidade do Roleplay.
 
-## 13. Punições e Sanções de Facções
+## 3. Punições e Sanções de Facções
 
 * As facções estão sujeitas a regras específicas e, em caso de infrações, poderão sofrer sanções administrativas. Essas punições variam conforme a gravidade da violação cometida e têm como objetivo manter o equilíbrio e o bom andamento do roleplay. As sanções são aplicadas por tempo determinado e, geralmente, apenas uma ou duas são impostas por vez. No entanto, em casos graves, podem ser combinadas ou aplicadas simultaneamente.
 
@@ -67,7 +27,7 @@ Tipos de Sanções:
 * Observações Importantes: Sanções podem ser aplicadas individualmente ou em conjunto, conforme a gravidade da infração. A staff se reserva o direito de aplicar sanções sem aviso prévio, sempre com base em provas e análise criteriosa.
 * Reincidência pode levar a punições mais severas, como a dissolução da facção.
 
-## 14. Invasões - Facção x Facção
+## 4. Invasões - Facção x Facção
 
 * As invasões entre facções são permitidas somente em situações específicas, devendo sempre seguir as regras abaixo:
 * Invasão Marcada: Autorizada pela Cúpula, mediante à apresentação de um Dossiê de Provas que servirão como motivo para que seja iniciada uma guerra ou dominação de território de uma Facção a Outra. A facção perdedora deve responder à algumas sanções que serão de decisão da Cúpula.

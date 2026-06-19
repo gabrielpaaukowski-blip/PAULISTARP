@@ -68,3 +68,21 @@ Máximo de 4 caveirões
 
 4. Baús e Cofres Extras: Todos os baús ou cofres adicionais devem ser informados previamente no alinhamento com a staff.
 5. Recolhimento de Veículos: Ao término da pacificação, todos os veículos policiais devem ser recolhidos imediatamente.
+
+**Regra de Atropelamento e Omissão de Socorro**
+
+**1º – Atropelamento durante fuga**
+
+* Caso um suspeito em fuga atropelar uma pessoa e não parar para prestar socorro, a ação será considerada infração grave, sujeita às penalidades previstas pela corporação e pela legislação do servidor.
+
+**2º – Omissão de socorro**
+
+* Qualquer condutor que atropelar uma pessoa e deixar o local sem prestar socorro ou acionar ajuda será responsabilizado por omissão de socorro.
+
+**3º – VDM (Vehicle Deathmatch)**
+
+* Todo atropelamento intencional ou atropelamento seguido de fuga sem justificativa plausível poderá ser caracterizado como **VDM (Vehicle Deathmatch)**, ficando sujeito às punições administrativas do servidor.
+
+**Observação:**
+
+* Acidentes claramente involuntários poderão ser analisados pela administração conforme as circunstâncias e as provas apresentadas.

@@ -18,12 +18,13 @@
 
 * [📓 Central de Regras](regras/Index.md)
 * [📜 Roleplay](regras/Roleplay.md)
+* [💳 Regulamento de Banco](regras/doacoes.md)
 * [👮 Polícia](regras/Policia.md)
 * [☠️ Ilegal](regras/Ilegal.md)
 * [🏦 Ações](regras/Ações.md)
 * [🏥 Hospital](regras/Hospital.md)
 * [🚒 Bombeiro](regras/Bombeiro.md)
-* [💸 Doações](regras/Doacoes.md)
+* [💸 Doações](regras/doacoes-1.md)
 
 ## Regras de Ações
 

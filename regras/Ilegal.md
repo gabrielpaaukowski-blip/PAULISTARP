@@ -39,15 +39,3 @@ A administração poderá acompanhar, revisar ou intervir em qualquer atividade 
 ## Equilíbrio do Servidor
 
 Nenhuma facção possui privilégios sobre outra. Todas as organizações estão sujeitas às mesmas regras e diretrizes estabelecidas pela administração.
-
-## Fuga para Territórios de Facção
-
-É proibido utilizar territórios de facções ou favelas com a única intenção de iniciar, forçar ou facilitar trocas de tiros contra forças de segurança. Em situações de perseguição, será permitida a fuga para esses locais a pé ou em veículo, desde que o objetivo seja escapar da abordagem e não criar vantagem indevida ou provocar confrontos de forma antirp.
-
-## Uso de Território em Perseguições
-
-Durante perseguições, resgates, ações de caixinha, vendas de drogas ou qualquer outra atividade ilegal, é permitido que os envolvidos utilizem territórios de facções ou favelas como rota de fuga, seja a pé ou em veículos.
-
-Entretanto, é estritamente proibido adentrar esses locais com o objetivo de provocar, iniciar ou facilitar confrontos armados contra as forças de segurança. O território não deve ser utilizado como vantagem indevida ou zona de proteção para forçar trocas de tiros.
-
-A utilização do território deverá ocorrer de forma coerente com a narrativa da ação, caracterizando uma tentativa legítima de evasão e preservando a qualidade do Roleplay.
